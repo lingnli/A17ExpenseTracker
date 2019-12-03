@@ -96,4 +96,4 @@ callbackURL: http://localhost:3000/auth/facebook/callback
 ## 維護及更新
 
 - Google 驗證現正趕工中
-- 預計大配 chart.js 產生支出圓餅圖方便使用
+- 預計增加 chart.js 產生支出圓餅圖方便使用
